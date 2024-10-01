@@ -1,4 +1,4 @@
 # Machine-Learning
-Nama : Diantoro Kadarman
+Nama\t: Diantoro Kadarman
 
-NIM  : 2241720084 
+NIM\t: 2241720084 
